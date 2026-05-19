@@ -64,11 +64,11 @@
 </table>
 
 ### 📈 GitHub статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akter504&show_icons=true&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akter504&theme=radical)
 
 ### 📫 Как связаться со мной:
 - 📧 Email: [sanik7sanik7@yandex.com](mailto:sanik7sanik7@yandex.com)
 - 🌍 Telegram: [@fireonmyhead](https://t.me/fireonmyhead)
 
 ---
-*Спасибо, что заглянули! 🚀 Буду рад новым знакомствам и сотрудничеству.*
+*Спасибо, что заглянули! Буду рад новым знакомствам и сотрудничеству.*
